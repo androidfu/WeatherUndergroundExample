@@ -10,4 +10,5 @@ Novice level example code for Weather Underground Coding Challenge
 Other solutions from the challenge:
 
 The Web Solution by Jeremy Yap: https://bitbucket.org/jeruyyap/codingchallengeweather
+
 Another Android Solution by Junlan Liu: https://github.com/jennaliu/WeatherUndergroundExample
